@@ -1,6 +1,6 @@
 # Manache Ganapati Information App
 
-Manache Ganapati Information App is an Android application developed by **Arjun Deshmukh** that provides detailed information about the five Manache Ganapatis in Pune along with their respective locations. The app supports two languages: **English** and **Marathi**, allowing users to easily access information in their preferred language.
+Manache Ganapati Information App is an Android application developed by **Arjun Deshmukh** and **Vishesh Bhandare** that provides detailed information about the five Manache Ganapatis in Pune along with their respective locations. The app supports two languages: **English** and **Marathi**, allowing users to easily access information in their preferred language.
 
 ## Features
 
