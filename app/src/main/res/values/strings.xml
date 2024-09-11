@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Manache 5</string>
+    <string name="darshan_location">Darshan Location</string>
+    <string name="english">English</string>
+    <string name="marathi">Marathi</string>
+    <string name="darshanbutton">darshanbutton</string>
+    <string name="english_button">english_button</string>
+    <string name="marathi_button">marathi_button</string>
+    <string name="backgroundimage">backgroundimage</string>
+    <string name="title">title</string>
+</resources>
